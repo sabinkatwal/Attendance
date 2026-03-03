@@ -51,7 +51,7 @@ encodings.pkl
 logs/
 attendance/
 dataset/*
-test_faces/*
+test_faces/
 !dataset/.gitkeep
 
 # Pycache
